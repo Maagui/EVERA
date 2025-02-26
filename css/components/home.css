@@ -1,0 +1,52 @@
+.image-section {
+    margin: 30px auto;
+    text-align: center;
+    background: #DDE4E6; 
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.cozy-image {
+    width: 40%; 
+    border-radius: 15px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Call-To-Action Section */
+..cta-section {
+    margin-top: 20px;
+    padding: 25px;
+    background-color: #A3B1B6;
+    border-radius: 12px;
+    display: inline-block;
+}
+
+/* Button */
+.btn {
+    background-color: #3E606F; 
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 18px;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s ease;
+    font-weight: bold;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #2B4D55;
+};
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 18px;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #5F8A8B;
+}
